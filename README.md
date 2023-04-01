@@ -1,2 +1,1 @@
-# odin-recipes
-Odin Recipes
+Ebben a projektben egy egyszerű recept oldalt fogok létrehozni. Egyszerű html elementeket fogok használni.
